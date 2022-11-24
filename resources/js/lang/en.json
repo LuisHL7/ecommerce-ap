@@ -1,0 +1,12 @@
+{
+    "Home": "Home",
+    "Products": "Products",
+    "Logout": "Logout",
+    "Login": "Login",
+    "Register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "forgot_your_password": "Forgot your password?",
+    "log_in": "Log in"
+}
